@@ -1,6 +1,3 @@
-Tabii, işte senin için farklı bir versiyon:
-
----
 
 # Dice Game - React
 
@@ -54,5 +51,3 @@ npm run dev
 - Track and display the player's score across multiple rounds.
 
 ---
-
-Bu versiyonla artık GitHub'a yükleyebilirsin!
